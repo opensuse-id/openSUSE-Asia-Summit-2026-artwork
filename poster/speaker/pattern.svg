@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350">
+  <defs>
+    <!-- Palet Warna openSUSE -->
+    <style>
+      .bg { fill: #0b1c2c; }
+      .green-light { fill: #73ba25; }
+      .green-dark { fill: #173f4f; }
+      .green-mid { fill: #35b9ab; }
+      .white { fill: #ffffff; }
+    </style>
+  </defs>
+
+  <!-- Latar Belakang -->
+  <rect class="bg" width="1080" height="1350"/>
+
+  <!-- Pola Geometris Atas (Header) -->
+  <g id="header-pattern">
+    <rect class="green-light" x="0" y="0" width="150" height="150"/>
+    <polygon class="green-mid" points="150,0 300,0 150,150"/>
+    <rect class="green-dark" x="150" y="150" width="150" height="150"/>
+    <circle class="white" cx="75" cy="225" r="50"/>
+    <polygon class="green-light" points="300,0 450,0 450,150 300,150"/>
+    <path class="green-mid" d="M 450 0 L 600 0 A 150 150 0 0 1 450 150 Z"/>
+    <rect class="green-dark" x="600" y="0" width="150" height="150"/>
+    <polygon class="green-light" points="750,0 900,150 750,150"/>
+    <rect class="green-mid" x="900" y="0" width="180" height="150"/>
+  </g>
+
+  <!-- Pola Geometris Bawah (Footer) -->
+  <g id="footer-pattern" transform="translate(0, 1200)">
+    <polygon class="green-light" points="0,150 150,150 0,0"/>
+    <rect class="green-dark" x="150" y="0" width="150" height="150"/>
+    <path class="green-mid" d="M 300 150 L 450 150 A 150 150 0 0 0 300 0 Z"/>
+    <rect class="green-light" x="450" y="0" width="150" height="150"/>
+    <polygon class="green-dark" points="600,150 750,150 600,0"/>
+    <circle class="white" cx="825" cy="75" r="50"/>
+    <rect class="green-light" x="900" y="0" width="180" height="150"/>
+  </g>
+</svg>
