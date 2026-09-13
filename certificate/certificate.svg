@@ -9,7 +9,7 @@
    version="1.1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    sodipodi:docname="certificate.svg"
-   inkscape:export-filename="./certificate.png"
+   inkscape:export-filename="certificate.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -2229,7 +2229,7 @@
      inkscape:cx="473.25647"
      inkscape:cy="346.9874"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g3"
      showgrid="false"
      units="cm"
      inkscape:window-width="2560"
@@ -2364,6 +2364,13 @@
        id="g3"
        transform="matrix(3.5433071,0,0,3.5433071,0,308.26773)"
        style="display:inline">
+      <rect
+         style="opacity:0.25;fill:#d2d5d8;stroke:none;stroke-width:1.39109"
+         id="rect2"
+         width="297"
+         height="210"
+         x="0"
+         y="0" />
       <g
          id="g4700"
          transform="matrix(-0.75373955,0,0,-0.7537803,2090.8766,773.23913)"
