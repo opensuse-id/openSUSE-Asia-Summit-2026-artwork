@@ -2225,11 +2225,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="473.25647"
-     inkscape:cy="346.9874"
+     inkscape:zoom="1"
+     inkscape:cx="512.5"
+     inkscape:cy="455.5"
      inkscape:document-units="cm"
-     inkscape:current-layer="g3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="cm"
      inkscape:window-width="2560"
@@ -3517,8 +3517,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="text"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        font-style="normal"
        font-variant="normal"
@@ -3672,7 +3671,7 @@
     </g>
     <g
        id="g984"
-       transform="translate(-336.33653,-33.721547)"
+       transform="translate(-336.33653,-41.472531)"
        inkscape:label="oSID">
       <text
          x="756.74634"
@@ -3680,7 +3679,7 @@
          font-stretch="normal"
          font-style="normal"
          letter-spacing="0"
-         y="719.25116"
+         y="733.46124"
          font-variant="normal"
          font-weight="normal"
          line-height="125%"
@@ -3690,7 +3689,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:0%;font-family:'Comic Sans MS';letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="756.74634"
            font-size="17.5"
-           y="719.25116"
+           y="733.46124"
            sodipodi:role="line"
            id="tspan7641"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans';fill:#000000">Muhammad Dhenandi Putra</tspan></text>
@@ -3772,6 +3771,14 @@
          sodipodi:nodetypes="cc"
          d="m 441.00001,140.16352 h 170.3622" />
     </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.10702;stroke-dasharray:1.10702002,1.10702002;stroke-dashoffset:0"
+       id="rect3"
+       width="92.642982"
+       height="92.642982"
+       x="479.85962"
+       y="578.99103"
+       inkscape:label="sign box" />
   </g>
   <g
      inkscape:groupmode="layer"
