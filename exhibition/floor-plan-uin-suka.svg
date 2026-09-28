@@ -7,8 +7,11 @@
    viewBox="0 0 398.9505 623.94562"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    sodipodi:docname="floor-plan-uin-suka.svg"
+   inkscape:export-filename="floor-plan-uin-suka.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,15 +26,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.52316899"
-     inkscape:cx="362.21566"
-     inkscape:cy="1186.0412"
+     inkscape:zoom="0.73987268"
+     inkscape:cx="1054.9112"
+     inkscape:cy="1375.9124"
      inkscape:window-width="2560"
-     inkscape:window-height="1574"
-     inkscape:window-x="482"
-     inkscape:window-y="1502"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="false" />
   <defs
      id="defs1">
     <marker
@@ -86,7 +90,7 @@
        width="30.683361"
        height="46.025036"
        x="148.97513"
-       y="-135.13281"
+       y="-120.8454"
        transform="rotate(90)" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.417676;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
@@ -102,7 +106,7 @@
        width="30.683361"
        height="46.025036"
        x="148.97513"
-       y="135.22794"
+       y="120.94051"
        transform="matrix(0,1,1,0,0,0)" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
@@ -110,7 +114,7 @@
        width="30.683361"
        height="46.025036"
        x="371.82416"
-       y="-135.13281"
+       y="-119.2579"
        transform="rotate(90)" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
@@ -118,7 +122,7 @@
        width="30.683361"
        height="46.025036"
        x="371.82416"
-       y="135.22794"
+       y="119.35303"
        transform="matrix(0,1,1,0,0,0)" />
     <rect
        style="fill:#000000;stroke:none;stroke-width:0.246063;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
@@ -953,67 +957,57 @@
     <text
        xml:space="preserve"
        style="font-weight:900;font-size:9.87777px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       x="158.33221"
-       y="162.70042"
+       x="143.95302"
+       y="161.28293"
        id="text134-4"><tspan
          sodipodi:role="line"
-         x="158.33221"
-         y="162.70042"
-         style="font-weight:normal;font-size:9.87777px;stroke-width:0.396875"
-         id="tspan134-9">A2</tspan><tspan
+         x="143.95302"
+         y="161.28293"
+         style="font-weight:normal;font-size:7.05556px;stroke-width:0.396875"
+         id="tspan134-9">BlankOn</tspan><tspan
          sodipodi:role="line"
-         x="158.33221"
-         y="174.05986"
+         x="143.95302"
+         y="172.64236"
+         style="font-weight:normal;font-size:7.05556px;stroke-width:0.396875"
+         id="tspan13">GNOME-ID</tspan><tspan
+         sodipodi:role="line"
+         x="143.95302"
+         y="184.0018"
          style="font-weight:normal;font-size:9.87777px;stroke-width:0.396875"
-         id="tspan7">3x3 m</tspan></text>
+         id="tspan7" /></text>
     <text
        xml:space="preserve"
        style="font-weight:900;font-size:9.87777px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       x="113.63151"
-       y="162.70044"
+       x="97.850517"
+       y="166.02426"
        id="text135"><tspan
          sodipodi:role="line"
-         x="113.63151"
-         y="162.70044"
-         style="font-weight:normal;font-size:9.87777px;stroke-width:0.396875"
-         id="tspan135">A1</tspan><tspan
-         sodipodi:role="line"
-         x="113.63151"
-         y="174.05988"
-         style="font-weight:normal;font-size:9.87777px;stroke-width:0.396875"
-         id="tspan6">3x3 m</tspan></text>
+         x="97.850517"
+         y="166.02426"
+         style="font-weight:normal;font-size:7.05556px;stroke-width:0.396875"
+         id="tspan6">openSUSE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-weight:900;font-size:9.87777px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       x="112.57317"
-       y="386.07849"
+       style="font-weight:900;font-size:7.05556px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="96.203041"
+       y="389.81168"
        id="text136"><tspan
          sodipodi:role="line"
-         x="112.57317"
-         y="386.07849"
-         style="font-weight:normal;font-size:9.87777px;stroke-width:0.396875"
-         id="tspan136">B1</tspan><tspan
-         sodipodi:role="line"
-         x="112.57317"
-         y="397.43793"
-         style="font-weight:normal;font-size:9.87777px;stroke-width:0.396875"
-         id="tspan8">3x3 m</tspan></text>
+         x="96.203041"
+         y="389.81168"
+         style="font-weight:normal;font-size:7.05556px;stroke-width:0.396875"
+         id="tspan8">Nevacloud</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:900;font-size:9.87777px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       x="154.97137"
-       y="385.54932"
+       x="142.11859"
+       y="390.6922"
        id="text137"><tspan
          sodipodi:role="line"
-         x="154.97137"
-         y="385.54932"
+         x="142.11859"
+         y="390.6922"
          style="font-weight:normal;font-size:9.87777px;stroke-width:0.396875"
-         id="tspan137">B2</tspan><tspan
-         sodipodi:role="line"
-         x="154.97137"
-         y="396.90875"
-         style="font-weight:normal;font-size:9.87777px;stroke-width:0.396875"
-         id="tspan9">3x3 m</tspan></text>
+         id="tspan9">FANS</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
        d="M -114.27112,40.828504 V -1.4966865"
@@ -1031,5 +1025,62 @@
          style="stroke-width:2"
          x="-120.48898"
          y="-30.503439" /></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1"
+       width="30.683361"
+       height="46.025036"
+       x="148.97513"
+       y="166.97751"
+       transform="matrix(0,1,1,0,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:9.87777px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="189.55263"
+       y="162.70042"
+       id="text11"><tspan
+         sodipodi:role="line"
+         x="189.55263"
+         y="162.70042"
+         style="font-weight:normal;font-size:9.87777px;stroke-width:0.396875"
+         id="tspan10">A3</tspan><tspan
+         sodipodi:role="line"
+         x="189.55263"
+         y="174.05986"
+         style="font-weight:normal;font-size:9.87777px;stroke-width:0.396875"
+         id="tspan11">3x3 m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:7.38928px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Semi-Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#35b9ab;stroke-width:1.32292;stroke-linejoin:round"
+       x="200.3972"
+       y="162.8154"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="stroke-width:1.32292"></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect15"
+       width="30.683361"
+       height="46.025036"
+       x="371.82416"
+       y="165.39003"
+       transform="matrix(0,1,1,0,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:7.05556px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="188.27554"
+       y="385.75473"
+       id="text16"><tspan
+         sodipodi:role="line"
+         x="188.27554"
+         y="385.75473"
+         style="font-weight:normal;font-size:7.05556px;stroke-width:0.396875"
+         id="tspan16">Belajar</tspan><tspan
+         sodipodi:role="line"
+         x="188.27554"
+         y="393.86862"
+         style="font-weight:normal;font-size:7.05556px;stroke-width:0.396875"
+         id="tspan17">FreeBSD ID</tspan></text>
   </g>
 </svg>
